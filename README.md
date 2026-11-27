@@ -4,7 +4,7 @@ Web Pokedex developed with JavaScript that allows users to retrieve Pokemon info
 
 ## Screenshot
 
-![IndraKedex Screenshot](./index.png)
+![IndraKedex Screenshot](./index-img.png)
 
 ## Run Locally
 
