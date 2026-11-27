@@ -2,7 +2,7 @@
 
 Web Pokedex developed with JavaScript that allows users to retrieve Pokemon information through an API.
 
-## Screenshot
+## Main page
 
 ![IndraKedex Screenshot](./index-img.png)
 
